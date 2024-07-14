@@ -56,7 +56,7 @@ sub setContent()
   'ContentNode = CreateObject("roSGNode", "ContentNode")
   'ContentNode.streamFormat = "mp4"
   'ContentNode.url = "http://video.ted.com/talks/podcast/CraigVenter_2008_480.mp4"
-  'ContentNode.ShortDescriptionLine1 = "Big Buck Bunny"
+  'ContentNode.ShortDescriptionLine1 = "Men Of Expectation"
   'ContentNode.Description = "Big Buck Bunny is being served using a Wowza server running on Amazon EC2 cloud services. The video is transported via HLS HTTP Live Streaming. A team of small artists from the Blender community produced this open source content..."
   'ContentNode.StarRating = 80
   'ContentNode.Length = 600
